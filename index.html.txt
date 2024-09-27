@@ -1,0 +1,16 @@
+<!--establece el tipo estandar de un documento(HTML 5)-->
+<!DOCTYPE html>
+    <!--inicio del documento-->
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- datos que le pasamos al navegador con nuestra pagina web-->
+    <title>Document</title>
+</head>
+    <!--representa todo el contenido de nuestra pagina web-->
+
+<body>
+    holaaa mundo esta es mi primer pagina web y messi es el mejor jsjjsjsjs
+</body>
+</html>
